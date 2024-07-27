@@ -1,3 +1,4 @@
+//Express is used for routing.
 require('dotenv').config()
 
 const express = require('express')
